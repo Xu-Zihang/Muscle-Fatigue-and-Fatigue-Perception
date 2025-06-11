@@ -12,11 +12,8 @@ The `Experimental_Arrangement` folder includes programs for randomly assigning e
 ## Regress
 The `Regress` folder stores all the regression programs used in the data processing process, as well as programs for calculating model fitting.
 
-## Statistical_Test
-The `Statistical_Test` folder contains all the statistical testing programs used in the project. 
-
 ## Usage
 To use the programs in this project, you need to have Python or MATLAB installed, depending on the programming language used in each program. Make sure to install all the necessary libraries before running the programs.
 
 ## Remarks
-The primary datasets generated and analyzed during this study are available from the corresponding authors on reasonable request. When applying for the data, requesters need to provide the ethical review documents and sign a data usage agreement. 
+The primary datasets generated during this study are available from the corresponding authors on reasonable request. 
